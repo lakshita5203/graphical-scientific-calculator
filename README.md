@@ -2,7 +2,7 @@
 
 Welcome to the Graphical Scientific Calculator, a C Programming Language project featuring both basic and advanced scientific functionalities. The calculator boasts an aesthetically pleasing graphical user interface (GUI) adorned with 3D buttons, showcasing captivating click button animations. Developed using the Turbo C++ 3.0 Integrated Development Environment (IDE), this calculator leverages BGI Graphics for rendering all graphical elements.
 
-![Calculator Preview](https://github.com/lakshita5203/graphical-scientific-calculator/assets/78801739/e2742cee-7091-4102-9706-93eb8b137867)
+![Screenshot (46)](https://github.com/lakshita5203/graphical-scientific-calculator/assets/78801739/ec2e0d6f-1ee1-415e-901c-ec8032a5e910)
 ![User Interface](https://github.com/lakshita5203/graphical-scientific-calculator/assets/78801739/bd1919bf-9763-489a-9a00-6548fde79aef)
 
 ## Features
